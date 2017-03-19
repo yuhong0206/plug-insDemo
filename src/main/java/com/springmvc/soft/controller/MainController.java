@@ -14,5 +14,6 @@ public class MainController {
     @RequestMapping()
     public String initWelcome(){
         return "index";
+
     }
 }
